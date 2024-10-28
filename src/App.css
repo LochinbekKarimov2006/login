@@ -1,0 +1,7 @@
+.button-1:hover svg path {
+  fill: #faa110;
+}
+.button-1:hover{
+  background-color: #eaab0a5a;
+  transition: all .5s ease;
+}
